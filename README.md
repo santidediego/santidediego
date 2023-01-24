@@ -2,7 +2,7 @@
 - 👀 I’m interested in information security, blockchain development, cryptography, pentesting
 - 🌱 I’m constantly learning
 - 📫 How to reach me at santidediego@gmail.com
-- :pencil: Where to learn from me: [Patreon](patreon.com/santidediego)
+- :pencil: Where to learn from me: [Patreon](https://www.patreon.com/santidediego)
 
 <!---
 santidediego/santidediego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
